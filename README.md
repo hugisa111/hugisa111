@@ -1,0 +1,5 @@
+- 👋 Hi, I’m hugisa111.
+- 👀 I’m interested in Programming and pinball.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on nothing really.
+- 📫 How to reach me github or discord.
